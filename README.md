@@ -16,3 +16,9 @@
   - [There’s no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Built-in algorithms and pretrained models in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [The neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- Formas de deploy do seu modelo para Sagemaker AI
+  - [Build Your Own Container for SageMaker AI Multi-Model Endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/build-multi-model-build-container.html)
+  - [Bring your own model with Amazon SageMaker AI: Script mode in SDK v3](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/) - como é na versao 3 do SDK
+  - [Bring your own model with Amazon SageMaker script mode](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/) - como era antes
+  - [Pre-built SageMaker AI Docker images](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-prebuilt.html)
+  - 
