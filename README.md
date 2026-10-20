@@ -26,3 +26,5 @@
 ](https://github.com/aws-samples/sagemaker-studio-image-build-cli)  
 - [Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio JupyterLab notebooks](https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/)
 - [Understand the hyperparameter tuning strategies available in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
+- [Custom Inference Code with Hosting Services](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-inference-code.html)
+- [SageMaker Training and Inference Toolkits](https://docs.aws.amazon.com/sagemaker/latest/dg/amazon-sagemaker-toolkits.html) - note que o toolkit de inferencia aponta para um repo arquivado. Espera-se que a doc seja atualizado quando existir um toolkit novo
