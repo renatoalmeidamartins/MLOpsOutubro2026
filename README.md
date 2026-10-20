@@ -38,5 +38,9 @@
 - [Feature Store storage configurations](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-storage-configurations.html)
 - [CodeCommit desapareceu entre julho de 2024 e novembro de 2025](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
 - [Getting started with AWS Lake Formation ](https://aws.amazon.com/blogs/big-data/getting-started-with-aws-lake-formation/)
-- [Enable Lake Formation with Feature Groups](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-lf-governance.html#feature-store-lf-how-it-works)
- 
+- [Enable Lake Formation with Feature Groups](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-lf-governance.html#feature-store-lf-how-it-works
+- Algumas estrategias de branching de codigo
+  - [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- [Conteudo do buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html), quem "orquestra" um projeto no CodeBuild, atencao as phases
+   
