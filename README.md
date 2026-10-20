@@ -2,7 +2,12 @@
 
 - [Acesso a livros e laboratorio](https://us-east-1.student.classrooms.aws.training/class/ilt%239tnXCVnPc9DBbXdLAe4qdT)
 
+- 
 ## Links de conteudo
+- Servicos nao mais disponiveis
+  - [Indisponibilidade do Sagemaker role manager](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager-availability-change.html)
+  - [Clarify indisponivel ](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-availability-change.html)
+  - [Model Monitor - e model dashboard](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-availability-change.html)
 - Sobre DevOps
   - [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day at Flickr"](https://www.youtube.com/watch?v=LdOe18KhtT4)
   - [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
@@ -28,9 +33,10 @@
 - [Understand the hyperparameter tuning strategies available in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
 - [Custom Inference Code with Hosting Services](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-inference-code.html)
 - [SageMaker Training and Inference Toolkits](https://docs.aws.amazon.com/sagemaker/latest/dg/amazon-sagemaker-toolkits.html) - note que o toolkit de inferencia aponta para um repo arquivado. Espera-se que a doc seja atualizado quando existir um toolkit novo
-- [Indisponibilidade do Sagemaker role manager](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager-availability-change.html)
+
 - [SageMaker Studio Classic Lifecycle Configuration Samples](https://github.com/aws-samples/sagemaker-studio-lifecycle-config-examples)
 - [Feature Store storage configurations](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-storage-configurations.html)
 - [CodeCommit desapareceu entre julho de 2024 e novembro de 2025](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
 - [Getting started with AWS Lake Formation ](https://aws.amazon.com/blogs/big-data/getting-started-with-aws-lake-formation/)
 - [Enable Lake Formation with Feature Groups](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-lf-governance.html#feature-store-lf-how-it-works)
+ 
