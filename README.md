@@ -20,5 +20,6 @@
   - [Build Your Own Container for SageMaker AI Multi-Model Endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/build-multi-model-build-container.html)
   - [Bring your own model with Amazon SageMaker AI: Script mode in SDK v3](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/) - como é na versao 3 do SDK
   - [Bring your own model with Amazon SageMaker script mode](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/) - como era antes
-  - [Pre-built SageMaker AI Docker images](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-prebuilt.html)
-  - 
+  - [Docker containers for training and deploying models](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers.html)
+    - [Pre-built SageMaker AI Docker images](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-prebuilt.html) - artigo filho interessante
+  
