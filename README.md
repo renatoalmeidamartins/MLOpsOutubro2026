@@ -33,3 +33,4 @@
 - [Feature Store storage configurations](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-storage-configurations.html)
 - [CodeCommit desapareceu entre julho de 2024 e novembro de 2025](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
 - [Getting started with AWS Lake Formation ](https://aws.amazon.com/blogs/big-data/getting-started-with-aws-lake-formation/)
+- [Enable Lake Formation with Feature Groups](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-lf-governance.html#feature-store-lf-how-it-works)
