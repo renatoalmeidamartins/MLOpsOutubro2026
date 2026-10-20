@@ -30,3 +30,5 @@
 - [SageMaker Training and Inference Toolkits](https://docs.aws.amazon.com/sagemaker/latest/dg/amazon-sagemaker-toolkits.html) - note que o toolkit de inferencia aponta para um repo arquivado. Espera-se que a doc seja atualizado quando existir um toolkit novo
 - [Indisponibilidade do Sagemaker role manager](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager-availability-change.html)
 - [SageMaker Studio Classic Lifecycle Configuration Samples](https://github.com/aws-samples/sagemaker-studio-lifecycle-config-examples)
+- [CodeCommit desapareceu entre julho de 2024 e novembro de 2025](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+- [Getting started with AWS Lake Formation ](https://aws.amazon.com/blogs/big-data/getting-started-with-aws-lake-formation/)
