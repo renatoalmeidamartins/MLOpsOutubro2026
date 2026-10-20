@@ -28,3 +28,4 @@
 - [Understand the hyperparameter tuning strategies available in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
 - [Custom Inference Code with Hosting Services](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-inference-code.html)
 - [SageMaker Training and Inference Toolkits](https://docs.aws.amazon.com/sagemaker/latest/dg/amazon-sagemaker-toolkits.html) - note que o toolkit de inferencia aponta para um repo arquivado. Espera-se que a doc seja atualizado quando existir um toolkit novo
+- [Indisponibilidade do Sagemaker role manager](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager-availability-change.html)
