@@ -43,4 +43,4 @@
   - [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - [Conteudo do buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html), quem "orquestra" um projeto no CodeBuild, atencao as phases
-   
+- [Pipelines no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-overview.html)
