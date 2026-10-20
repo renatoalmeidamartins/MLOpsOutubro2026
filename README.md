@@ -13,5 +13,6 @@
   - [Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697)
   - [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
   - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)
+  - [There’s no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Built-in algorithms and pretrained models in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [The neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
