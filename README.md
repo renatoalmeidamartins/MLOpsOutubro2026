@@ -22,4 +22,6 @@
   - [Bring your own model with Amazon SageMaker script mode](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/) - como era antes
   - [Docker containers for training and deploying models](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers.html)
     - [Pre-built SageMaker AI Docker images](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-prebuilt.html) - artigo filho interessante
-  
+- [sagemaker-studio-image-build-cli
+](https://github.com/aws-samples/sagemaker-studio-image-build-cli)  
+- [Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio JupyterLab notebooks](https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/)
