@@ -58,3 +58,7 @@
 - [Templates nos projetos de Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates.html)
 - [Security Best Practices for Amazon SageMaker AI](https://docs.aws.amazon.com/config/latest/developerguide/security-best-practices-for-SageMaker.html)
 - [Regras do Config para boas praticas de seguranca no sagemaker](https://github.com/awslabs/aws-config-rules/blob/master/aws-config-conformance-packs/Security-Best-Practices-for-SageMaker.yaml)
+- [OUs recomendadas em um ambiente de multiplas contas](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/recommended-ous-and-accounts.html)
+- [Managing stacks across accounts and Regions with StackSets](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/what-is-cfnstacksets.html)
+- [Create a model card](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards-create.html)
+- [Automatic scaling of Amazon SageMaker AI models](https://docs.aws.amazon.com/sagemaker/latest/dg/endpoint-auto-scaling.html)
