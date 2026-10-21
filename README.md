@@ -63,3 +63,4 @@
 - [Create a model card](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards-create.html)
 - [Automatic scaling of Amazon SageMaker AI models](https://docs.aws.amazon.com/sagemaker/latest/dg/endpoint-auto-scaling.html)
 - [Inference options in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
+- [Exemplo de um job de inference recommender](https://github.com/aws-samples/sagemaker-inference-recommender-examples) - Atencao pois a primeira celula instala a ultima versao do SDK, e o codigo esta criado pra funcionar na V2. Substitua entao por isto `!pip install -U sagemaker==2.257.7` 
