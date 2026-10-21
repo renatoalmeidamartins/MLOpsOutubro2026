@@ -8,6 +8,7 @@
   - [Indisponibilidade do Sagemaker role manager](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager-availability-change.html)
   - [Clarify indisponivel ](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-availability-change.html)
   - [Model Monitor - e model dashboard](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-availability-change.html)
+  - [Debugger availability change](https://docs.aws.amazon.com/sagemaker/latest/dg/debugger-availability-change.html)
 - Sobre DevOps
   - [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day at Flickr"](https://www.youtube.com/watch?v=LdOe18KhtT4)
   - [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
