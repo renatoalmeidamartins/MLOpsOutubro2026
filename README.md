@@ -9,6 +9,7 @@
   - [Clarify indisponivel ](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-availability-change.html)
   - [Model Monitor - e model dashboard](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-availability-change.html)
   - [Debugger availability change](https://docs.aws.amazon.com/sagemaker/latest/dg/debugger-availability-change.html)
+  - [Solucoes atuais de monitoracao no Sagemaker](https://github.com/aws-samples/sample-aiops-on-amazon-sagemakerai/tree/main/monitoring)
 - Sobre DevOps
   - [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day at Flickr"](https://www.youtube.com/watch?v=LdOe18KhtT4)
   - [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
@@ -46,7 +47,8 @@
 - [Conteudo do buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html), quem "orquestra" um projeto no CodeBuild, atencao as phases
 - [Pipelines no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-overview.html)
 - [Opcoes de inferencia no Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
-- [Inference pipelines in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html#inference-pipeline-sample-notebooks)
+- [Inference pipelines in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html#inference-pipeline-sample-notebooks), repo com [exemplo interessante](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_inference_pipeline/Inference%20Pipeline%20with%20Scikit-learn%20and%20Linear%20Learner.ipynb)
+- [Tipos de step de pipeline que existem no SDK V3](https://sagemaker.readthedocs.io/en/stable/api/generated/sagemaker.mlops.workflow.steps.html#sagemaker.mlops.workflow.steps.StepTypeEnum)
 - Kubernetes para ML com Sagemaker
   - [Componentes do Sagemaker para Pipelines do Kubeflow](https://docs.aws.amazon.com/sagemaker/latest/dg/kubernetes-sagemaker-components-for-kubeflow-pipelines.html)
   - [Plataforma kubeflow](https://www.kubeflow.org/docs/started/installing-kubeflow/#kubeflow-platform)
@@ -54,3 +56,5 @@
   - [Kubeflow na AWS](https://awslabs.github.io/kubeflow-manifests/docs/deployment/)
   - [Operators para kubernetes do Sagemaker](https://aws-controllers-k8s.github.io/docs/api-reference/#sagemaker)
 - [Templates nos projetos de Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates.html)
+- [Security Best Practices for Amazon SageMaker AI](https://docs.aws.amazon.com/config/latest/developerguide/security-best-practices-for-SageMaker.html)
+- [Regras do Config para boas praticas de seguranca no sagemaker](https://github.com/awslabs/aws-config-rules/blob/master/aws-config-conformance-packs/Security-Best-Practices-for-SageMaker.yaml)
