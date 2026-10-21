@@ -35,7 +35,6 @@
 - [Understand the hyperparameter tuning strategies available in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
 - [Custom Inference Code with Hosting Services](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-inference-code.html)
 - [SageMaker Training and Inference Toolkits](https://docs.aws.amazon.com/sagemaker/latest/dg/amazon-sagemaker-toolkits.html) - note que o toolkit de inferencia aponta para um repo arquivado. Espera-se que a doc seja atualizado quando existir um toolkit novo
-
 - [SageMaker Studio Classic Lifecycle Configuration Samples](https://github.com/aws-samples/sagemaker-studio-lifecycle-config-examples)
 - [Feature Store storage configurations](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store-storage-configurations.html)
 - [CodeCommit desapareceu entre julho de 2024 e novembro de 2025](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
@@ -63,4 +62,5 @@
 - [Create a model card](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards-create.html)
 - [Automatic scaling of Amazon SageMaker AI models](https://docs.aws.amazon.com/sagemaker/latest/dg/endpoint-auto-scaling.html)
 - [Inference options in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
-- [Exemplo de um job de inference recommender](https://github.com/aws-samples/sagemaker-inference-recommender-examples) - Atencao pois a primeira celula instala a ultima versao do SDK, e o codigo esta criado pra funcionar na V2. Substitua entao por isto `!pip install -U sagemaker==2.257.7` 
+- [Exemplo de um job de inference recommender](https://github.com/aws-samples/sagemaker-inference-recommender-examples) - Atencao pois a primeira celula instala a ultima versao do SDK, e o codigo esta criado pra funcionar na V2. Substitua entao por isto `!pip install -U sagemaker==2.257.7`
+- [Usando feature flags no AppConfig](https://aws.amazon.com/blogs/mt/using-aws-appconfig-feature-flags/)
