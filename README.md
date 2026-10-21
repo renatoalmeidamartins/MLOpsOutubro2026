@@ -45,3 +45,4 @@
   - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - [Conteudo do buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html), quem "orquestra" um projeto no CodeBuild, atencao as phases
 - [Pipelines no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-overview.html)
+- [Opcoes de inferencia no Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
