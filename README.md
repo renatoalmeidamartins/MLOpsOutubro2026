@@ -47,3 +47,9 @@
 - [Pipelines no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-overview.html)
 - [Opcoes de inferencia no Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
 - [Inference pipelines in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html#inference-pipeline-sample-notebooks)
+- Kubernetes para ML com Sagemaker
+  - [Componentes do Sagemaker para Pipelines do Kubeflow](https://docs.aws.amazon.com/sagemaker/latest/dg/kubernetes-sagemaker-components-for-kubeflow-pipelines.html)
+  - [Plataforma kubeflow](https://www.kubeflow.org/docs/started/installing-kubeflow/#kubeflow-platform)
+  - [Pipelines no Kubeflow](https://github.com/kubeflow/pipelines)
+  - [Kubeflow na AWS](https://awslabs.github.io/kubeflow-manifests/docs/deployment/)
+  - [Operators para kubernetes do Sagemaker](https://aws-controllers-k8s.github.io/docs/api-reference/#sagemaker)
