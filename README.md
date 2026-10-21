@@ -53,3 +53,4 @@
   - [Pipelines no Kubeflow](https://github.com/kubeflow/pipelines)
   - [Kubeflow na AWS](https://awslabs.github.io/kubeflow-manifests/docs/deployment/)
   - [Operators para kubernetes do Sagemaker](https://aws-controllers-k8s.github.io/docs/api-reference/#sagemaker)
+- [Templates nos projetos de Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates.html)
