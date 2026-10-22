@@ -45,7 +45,6 @@
   - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - [Conteudo do buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html), quem "orquestra" um projeto no CodeBuild, atencao as phases
 - [Pipelines no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-overview.html)
-- [Opcoes de inferencia no Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model-options.html)
 - [Inference pipelines in Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html#inference-pipeline-sample-notebooks), repo com [exemplo interessante](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_inference_pipeline/Inference%20Pipeline%20with%20Scikit-learn%20and%20Linear%20Learner.ipynb)
 - [Tipos de step de pipeline que existem no SDK V3](https://sagemaker.readthedocs.io/en/stable/api/generated/sagemaker.mlops.workflow.steps.html#sagemaker.mlops.workflow.steps.StepTypeEnum)
 - Kubernetes para ML com Sagemaker
