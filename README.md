@@ -1,4 +1,5 @@
 # MLOpsOutubro2026
+- [Meu perfil no Linkedin](https://www.linkedin.com/in/renatodealmeidamartins)
 
 - [Acesso a livros e laboratorio](https://us-east-1.student.classrooms.aws.training/class/ilt%239tnXCVnPc9DBbXdLAe4qdT)
 - Avaliação pode ser feita através do [myclass](https://myclass.skillbuilder.aws/). A classe estará na seção "passadas", onde está o botão para a pesquisa.
@@ -86,3 +87,8 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/)
 - [Exploracao de capacidades por regiao](https://builder.aws.com/build/capabilities)
 - [Intelligent prompt routing no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Community tools no strands agents](https://github.com/strands-agents/tools)
+- [Ferramentas oficiais no strands agents](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
+- [Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)
+- [Agentcore CLI](https://github.com/aws/agentcore-cli)
