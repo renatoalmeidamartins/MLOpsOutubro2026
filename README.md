@@ -64,3 +64,4 @@
 - [Exemplo de um job de inference recommender](https://github.com/aws-samples/sagemaker-inference-recommender-examples) - Atencao pois a primeira celula instala a ultima versao do SDK, e o codigo esta criado pra funcionar na V2. Substitua entao por isto `!pip install -U sagemaker==2.257.7`
 - [Usando feature flags no AppConfig](https://aws.amazon.com/blogs/mt/using-aws-appconfig-feature-flags/)
 - [Deployment guardrails](https://docs.aws.amazon.com/sagemaker/latest/dg/deployment-guardrails.html) pode ser usado em blue-green ou rolling, funciona na forma de alarmes para auto-rollback. Notebooks de exemplo [aqui](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-inference-deployment-guardrails)
+- [Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics](https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/)
