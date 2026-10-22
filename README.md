@@ -70,3 +70,19 @@
 - [Querying Lineage Entities](https://docs.aws.amazon.com/sagemaker/latest/dg/querying-lineage-entities.html)
 - [Automated Canary Analysis at Netflix with Kayenta](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
 - [Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
+
+## LLM e agentes
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+- [Visualizador de embeddings](https://projector.tensorflow.org/)
+- [Anuncio do recurso de managed knowledge bases no bedrock](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
+- "Série" what is da AWS
+  - [Transformer architecture](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+  - [Embeddings](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+  - [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+  - [Prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Conceitos de prompt engineering, na documentação do Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
+- [Artigo de blog falando de prompting avançado, especialmente interessante pelo framework COSTAR](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Agent core em alto nivel](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/)
+- [Exploracao de capacidades por regiao](https://builder.aws.com/build/capabilities)
+- [Intelligent prompt routing no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
