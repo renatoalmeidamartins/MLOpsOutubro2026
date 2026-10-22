@@ -69,3 +69,4 @@
 - [Invoke a multi-container endpoint with direct invocation](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-container-direct.html)
 - [Querying Lineage Entities](https://docs.aws.amazon.com/sagemaker/latest/dg/querying-lineage-entities.html)
 - [Automated Canary Analysis at Netflix with Kayenta](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
+- [Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
