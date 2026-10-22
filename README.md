@@ -1,7 +1,7 @@
 # MLOpsOutubro2026
 
 - [Acesso a livros e laboratorio](https://us-east-1.student.classrooms.aws.training/class/ilt%239tnXCVnPc9DBbXdLAe4qdT)
-
+- Avaliação pode ser feita através do [myclass](https://myclass.skillbuilder.aws/). A classe estará na seção "passadas", onde está o botão para a pesquisa.
 - 
 ## Links de conteudo
 - Servicos nao mais disponiveis
@@ -66,3 +66,6 @@
 - [Deployment guardrails](https://docs.aws.amazon.com/sagemaker/latest/dg/deployment-guardrails.html) pode ser usado em blue-green ou rolling, funciona na forma de alarmes para auto-rollback. Notebooks de exemplo [aqui](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-inference-deployment-guardrails)
 - [Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics](https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/)
 - [SageMaker Studio Administration Best Practices](https://docs.aws.amazon.com/whitepapers/latest/sagemaker-studio-admin-best-practices/sagemaker-studio-admin-best-practices.html)
+- [Invoke a multi-container endpoint with direct invocation](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-container-direct.html)
+- [Querying Lineage Entities](https://docs.aws.amazon.com/sagemaker/latest/dg/querying-lineage-entities.html)
+- [Automated Canary Analysis at Netflix with Kayenta](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
